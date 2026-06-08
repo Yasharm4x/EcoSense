@@ -2,7 +2,7 @@
 
 > Estimate the **electricity**, **water**, and **carbon emissions** of AI model interactions across hardware, regions, and task types.
 
-![EcoSense Screenshot](https://img.shields.io/badge/version-2.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub Pages](https://img.shields.io/badge/deployed-GitHub%20Pages-success)
+![EcoSense Screenshot](https://img.shields.io/badge/version-1.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub Pages](https://img.shields.io/badge/deployed-GitHub%20Pages-success)
 
 ---
 
