@@ -1,6 +1,6 @@
 # 🌿 EcoSense — Methodology & Research Foundation
 
-> **Version 2.0 · June 2026 · [github.com/yasharm4x](https://github.com/yasharm4x)**
+> **Version 1.0 · June 2026 · [github.com/yasharm4x](https://github.com/yasharm4x)**
 
 EcoSense is a single-file, zero-dependency web application that estimates the environmental impact of AI model interactions. This document describes the scientific foundation, calculation methodology, public claims framework, and competitive differentiation behind every number EcoSense produces.
 
