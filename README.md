@@ -8,7 +8,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[ecosense.yourgithubusername.github.io](https://yourgithubusername.github.io/ecosense)**
+👉 **[[ecosense.yourgithubusername.github.io](https://yourgithubusername.github.io/ecosense)](https://yasharm4x.github.io/EcoSense/)**
 
 ---
 
